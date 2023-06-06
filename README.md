@@ -1,4 +1,16 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Portafolio
+
+This is the repository with all the information of how i made this portafolio page.
+This was created through using the technology Next.JS, i through it was a nice and easy way
+to ease me into learning Next while doing something productive that helps with my overall
+presentation regarding my career. At the same time, im also learning Typescript to make my
+code more clear direct and understandable, while working on this proyect, the idea is not to take to long, but also to make it well.
+
+Seeing as the information of this page is mostly links and images which i can easy set up
+or obtain through the internet, i didn' saw the need of creating a working Back-End for
+request.
+
+Down below there is the ways to run this repository through next, which i through it was useful to keep as a quick access for now. As time passes and i get better at making README's for proyects when i come back this page i will update it to make it more professional.
 
 ## Getting Started
 
